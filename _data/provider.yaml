@@ -1,4 +1,6 @@
-- slug: >-
+- slug: being-an-api-provider
+  title: Being An API Provider
+  description: >-
     The world of APIs starts with an individual, company or organization, with
     some sort of content, data, or other digital resource, wanting to make it
     available, on the Internet, in a machine readable way, so that others can
@@ -8,8 +10,6 @@
     control which users have access to it, where they can go, and what they can
     do—APIs are just meant for other websites, web applications, and mobile
     developers.
-  title: ''
-  description: ''
   link-1-label: ''
   link-1-url: ''
   link-2-label: ''
@@ -19,29 +19,13 @@
   video: ''
   audio: ''
   issue: ''
-- slug: Solving a Problem
+- slug: solving-a-problem
   title: Solving a Problem
   description: >-
     APIs are all about providing solutions, to everyday problems in our
     increasingly digit worlds, from sharing data with partners, developing
     mobile applications, to disrupting an entire legacy industry who refuses to
     change and evolve.
-  link-1-label: ''
-  link-1-url: ''
-  link-2-label: ''
-  link-2-url: ''
-  image-1: ''
-  image-2: ''
-  video: ''
-  audio: ''
-  issue: ''
-- slug: >-
-    APIs are all about providing solutions, to everyday problems in our
-    increasingly digit worlds, from sharing data with partners, developing
-    mobile applications, to disrupting an entire legacy industry who refuses to
-    change and evolve.
-  title: ''
-  description: ''
   link-1-label: ''
   link-1-url: ''
   link-2-label: ''
